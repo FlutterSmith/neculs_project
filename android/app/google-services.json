@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424540990533",
+    "project_id": "neclus-project-e5129",
+    "storage_bucket": "neclus-project-e5129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424540990533:android:2cdea8b94ef928762ac72c",
+        "android_client_info": {
+          "package_name": "com.example.neclus_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNu5jCKNPWilVsBehNbEFeqyx83rmIWao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
